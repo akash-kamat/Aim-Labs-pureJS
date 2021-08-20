@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sasta Aim Lab</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="rules">Click the circle below to start</div>
+    <div class="menu">
+        <button id="play">START</button>
+        <div class="difficulty">
+            <h1>Difficulty</h1>
+            <input type="radio" name="lvl" id="easy" value="2000">
+            <label for="easy">EASY</label>
+            <input type="radio" name="lvl" id="normal" value="1500" checked>
+            <label for="normal">NORMAL</label>
+            <input type="radio" name="lvl" id="hard" value="1000">
+            <label for="hard">HARD</label>
+            <input type="radio" name="lvl" id="hell" value="600">
+            <label for="hell">HELL</label>
+        </div>
+        <hr width="20%">
+        <div class="targets">
+            <h1>Targets</h1>
+            <input type="range" name="targets" id="tar" min="20" max="100" step="5" value="30">
+            <label id="targetLabel" for="qual">30</label>
+        </div>
+    </div>
+    <a id="foot" class="foot" href="https://github.com/akash-kamat" target="_blank"> <img width=20px src="github-light.png" alt=""> Made by Akash kamat</a>
+    <script src="script.js"></script>
+</body>
+
+</html>
