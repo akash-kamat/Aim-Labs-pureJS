@@ -7,5 +7,5 @@ check it out URL: https://akash-kamat.github.io/Aim-Labs-pureJS/
 
 >Screenshots
 
-<img src="https://i.ibb.co/020LPXC/aimlab1.png" alt="aimlab1" border="0">
-<img src="https://i.ibb.co/xLwhvcb/aim2.png" alt="aim2" border="0">
+<img src="https://i.ibb.co/020LPXC/aimlab1.png" alt="aimlab1" width=750px border="0">
+<img src="https://i.ibb.co/xLwhvcb/aim2.png" alt="aim2" width=750px border="0">
