@@ -3,7 +3,7 @@
 A WebGame based on Training your AIM/Reaction time made with Pure JavaScript and some basic CSS
 
 
-check it out URL: https://akash-kamat.github.io/Aim-Labs-pureJS/
+check it out URL: <a href=" https://akash-kamat.github.io/Aim-Labs-pureJS/" target="_blank"> https://akash-kamat.github.io/Aim-Labs-pureJS/ </a>
 
 >Screenshots
 
